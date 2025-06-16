@@ -1,4 +1,4 @@
-UK Weather App
+## UK Weather App
 
 A modern TypeScript React weather application specifically designed for UK cities. Features current weather conditions, 7-day forecasts, and responsive design.
 
